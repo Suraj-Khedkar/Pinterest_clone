@@ -1,6 +1,6 @@
 # itw_project
 
-A new Flutter project.
+A Pinterest clone made using flutter for web
 
 ## Getting Started
 
