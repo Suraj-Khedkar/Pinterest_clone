@@ -1,4 +1,4 @@
-# itw_project
+# Pinterest homepage
 
 A Pinterest clone made using flutter for web
 
